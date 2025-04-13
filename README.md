@@ -20,12 +20,6 @@ This portfolio template was cloned from [nethmith/portfolio](https://github.com/
 
 💡 **Free to use. No attribution required.**
 
-## Preview
-
-[Live Demo](https://nethmith.github.io/portfolio)
-
-![screenshot](./src/assets/images/screenshot.png) <!-- update path based on actual screenshot path -->
-
 ## Features
 
 ✅ Modern design with clean UI  
